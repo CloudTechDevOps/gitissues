@@ -1,7 +1,7 @@
 # Variables and basic math
 x = 10
 y = 5
-total = x + y
+total = x - y
 
 # Control flow (If/Else)
 if total > 10:
